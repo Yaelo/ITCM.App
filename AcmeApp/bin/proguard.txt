@@ -1,0 +1,6 @@
+# view AndroidManifest.xml #generated:8
+-keep class com.acme.appAndroid.control.Login { <init>(...); }
+
+# view AndroidManifest.xml #generated:15
+-keep class com.acme.appAndroid.control.WelcomeActivity { <init>(...); }
+

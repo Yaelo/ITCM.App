@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Acme App</string>
+    <string name="lblLogin">Login</string>
+    <string name="btnLogin">Registrarse</string>
+    <string name="lblUserId">User id:</string>
+    <string name="lblPassword">Password :</string>
+    <string name="lblWelcome">Bienvenido: </string>
+</resources>
